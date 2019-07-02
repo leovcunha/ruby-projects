@@ -69,4 +69,52 @@ class Array
     end
     result
   end
+  def bubble_sort!(&prc)
+      prc ||= Proc.new {|a,b| a <=> b}
+      sorted = false
+      while !sorted do
+        sorted = true
+        (self.length-1).times do |i| 
+          if prc.call(self[i], self[i + 1]) == 1
+            self[i], self[i + 1] = self[i + 1], self[i]
+            sorted = false
+          end
+        end
+      end
+      self 
+  end
+
+  def bubble_sort(&prc)
+    prc ||= Proc.new{|num1,num2| num1 <=> num2}
+    self.dup.bubble_sort!(&prc)
+  end
+
+  def substrings(string)
+    result = []
+    for i in 0..string.length - 1
+      for j in i..string.length - 1
+        result << string[i..j]
+      end
+    end
+    result.uniq
+  end
+  
+  def subwords(word,dictionary)
+    result = []
+    substrings(word).each do |str|
+      result << str if dictionary.include?(str)
+    end
+    result
+  end
+    
 end
+
+def factors(num)
+  results = []
+  (1..num).each do |n|
+    results <<  n if num % n == 0
+  end
+  results
+end
+
+

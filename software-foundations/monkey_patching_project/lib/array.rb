@@ -23,6 +23,7 @@ class Array
       end
       (temp[self.length/2] + temp[self.length/2-1]) / 2.0
   end
+  
   def counts
       cnt = Hash.new(0)
       self.each {|el| cnt[el] +=1}

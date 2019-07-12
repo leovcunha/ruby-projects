@@ -1,0 +1,1948 @@
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:45:33 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 16ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:45:56 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:46:16 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:46:37 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 11ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:46:44 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:50:23 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:50:28 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:52:18 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (1.8ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:52:33 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:52:42 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:53:00 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 01:53:50 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 179.179.220.40 at 2019-07-11 02:01:50 +0000
+Cannot render console from 179.179.220.40! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 13:57:04 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 16ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 13:57:16 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 13:58:14 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 14:01:45 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 14:01:47 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 14:01:49 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:03:01 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 11ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:03:05 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.97 at 2019-07-11 14:11:26 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 11ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.97 at 2019-07-11 14:12:02 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 11ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:14:37 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 128.201.18.97, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 11ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:14:47 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 128.201.18.97, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:15:07 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.2ms)
+Completed 200 OK in 12ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:15:20 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 14:15:26 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 14:17:36 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 11ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-11 14:17:51 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.96 at 2019-07-11 14:34:38 +0000
+Cannot render console from 128.201.18.96! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 15ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.96 at 2019-07-11 14:39:53 +0000
+Cannot render console from 128.201.18.96! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 11ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 18:26:37 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 866ms (Views: 855.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 128.201.18.98 at 2019-07-11 18:29:10 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (uninitialized constant ArticlesController):
+  
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `block in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:8:in `without_bootsnap_cache'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `rescue in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:58:in `load_missing_constant'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for 128.201.18.98 at 2019-07-11 18:29:35 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (uninitialized constant ArticlesController):
+  
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `block in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:8:in `without_bootsnap_cache'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `rescue in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:58:in `load_missing_constant'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 128.201.18.98 at 2019-07-11 18:29:51 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (uninitialized constant ArticlesController):
+  
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `block in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:8:in `without_bootsnap_cache'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:79:in `rescue in load_missing_constant'
+bootsnap (1.4.4) lib/bootsnap/load_path_cache/core_ext/active_support.rb:58:in `load_missing_constant'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.3) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.3) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 18:52:11 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  
+AbstractController::ActionNotFound (The action 'index' could not be found for ArticlesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:52:20 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+Completed 406 Not Acceptable in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (ArticlesController#new is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.3) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.3) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:54:52 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (29.8ms)
+Completed 200 OK in 247ms (Views: 246.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:58:05 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/environment/blog_rails/app/views/articles/new.html.erb:1: syntax error, unexpected ','
+...=  form_with scope: :article, , url: articles_path,  local: ...
+...                              ^
+/home/ubuntu/environment/blog_rails/app/views/articles/new.html.erb:17: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/articles/new.html.erb:1: syntax error, unexpected ','
+app/views/articles/new.html.erb:17: syntax error, unexpected ensure, expecting end-of-input
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:58:17 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/ubuntu/environment/blog_rails/app/views/articles/new.html.erb:1: syntax error, unexpected ','
+...=  form_with scope: :article, , url: :articles_path,  local:...
+...                              ^
+/home/ubuntu/environment/blog_rails/app/views/articles/new.html.erb:17: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/articles/new.html.erb:1: syntax error, unexpected ','
+app/views/articles/new.html.erb:17: syntax error, unexpected ensure, expecting end-of-input
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:58:30 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (106.9ms)
+Completed 500 Internal Server Error in 110ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `articles_path_path' for #<#<Class:0x000055f0e37980b8>:0x00007f9d4092a4c0>
+Did you mean?  articles_path):
+    1: <%= form_with scope: :article, url: :articles_path,  local: true do |form| %>
+    2:   <p>
+    3:     <%= form.label :title %><br>
+    4:     <%= form.text_field :title %>
+  
+app/views/articles/new.html.erb:1:in `_app_views_articles_new_html_erb___4255497072034624589_70156684962240'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:59:13 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (120.7ms)
+Completed 500 Internal Server Error in 124ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `articles_path_path' for #<#<Class:0x000055f0e37980b8>:0x00007f9d48508bf0>
+Did you mean?  articles_path):
+    1: <%= form_with scope: :article, url: :articles_path,  local: true do |form| %>
+    2:   <p>
+    3:     <%= form.label :title %><br>
+    4:     <%= form.text_field :title %>
+  
+app/views/articles/new.html.erb:1:in `_app_views_articles_new_html_erb___4255497072034624589_70156749916820'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 18:59:37 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-11 18:59:40 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  
+AbstractController::ActionNotFound (The action 'create' could not be found for ArticlesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 19:01:27 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-11 19:01:29 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tVqcmd/4c+Z/NW5vSUiEduKZio5OVHlWZSm5V3kbTfPmvRHDwGZSUBuMyoq0/qXC/v1rzP9POeqjhWG4zQ6yTw==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (16.6ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (15.3ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+Migrating to CreateArticles (20190711190215)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE TABLE "articles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "text" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20190711190215_create_articles.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20190711190215"]]
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (14.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mActiveRecord::InternalMetadata Create (1.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2019-07-11 19:03:44.842414"], ["updated_at", "2019-07-11 19:03:44.842414"]]
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (12.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+Started GET "/articles/new" for 128.201.18.98 at 2019-07-11 19:05:59 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 39ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.98 at 2019-07-11 19:06:02 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+rAgxSGw1nTqmro8MypOUdE5kpYSkxZ/Dc6cpJbRF8ipV62fPi73wo4jHtnOnG/lzV1z1KOIVsPLYkRLIsTodA==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.6ms)
+
+
+  
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  
+app/controllers/articles_controller.rb:6:in `create'
+Started POST "/articles" for 128.201.18.98 at 2019-07-11 19:12:01 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+rAgxSGw1nTqmro8MypOUdE5kpYSkxZ/Dc6cpJbRF8ipV62fPi73wo4jHtnOnG/lzV1z1KOIVsPLYkRLIsTodA==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:18
+  [1m[36mArticle Create (0.9ms)[0m  [1m[32mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "sss"], ["text", "xxx"], ["created_at", "2019-07-11 19:12:01.773781"], ["updated_at", "2019-07-11 19:12:01.773781"]]
+  ↳ app/controllers/articles_controller.rb:18
+  [1m[35m (19.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:18
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/1
+Completed 302 Found in 33ms (ActiveRecord: 21.0ms)
+
+
+Started GET "/articles/1" for 128.201.18.98 at 2019-07-11 19:12:01 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:10
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 14.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/" for 128.201.18.98 at 2019-07-11 19:13:09 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+Completed 406 Not Acceptable in 12ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (ArticlesController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.3) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.3) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 128.201.18.98 at 2019-07-11 19:13:13 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+Completed 406 Not Acceptable in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (ArticlesController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.3) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.3) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.3) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:13:55 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:10
+  Rendered articles/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 32ms (Views: 30.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/articles/1" for 128.201.18.95 at 2019-07-11 19:13:58 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 19.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-11 19:14:36 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:14:44 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:10
+  Rendered articles/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/1" for 128.201.18.95 at 2019-07-11 19:15:23 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 14.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:15:26 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 19:15:29 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 19:16:18 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 27ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:16:20 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 18ms (Views: 16.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 19:19:54 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-11 19:19:59 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6tsrYiIfsdSSKFJwvy7wbExPYcQxGU9f8oiS76xgiO/ApAzGi6lLtxSxAEkVzi+wC4XrH2ME81S7VIzD891BAQ==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+  [1m[36mArticle Create (1.2ms)[0m  [1m[32mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "sss"], ["text", "xxx"], ["created_at", "2019-07-11 19:19:59.376076"], ["updated_at", "2019-07-11 19:19:59.376076"]]
+  ↳ app/controllers/articles_controller.rb:21
+  [1m[35m (13.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/2
+Completed 302 Found in 28ms (ActiveRecord: 15.5ms)
+
+
+Started GET "/articles/2" for 128.201.18.95 at 2019-07-11 19:19:59 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 15.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:20:03 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 17ms (Views: 15.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 19:20:12 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-11 19:20:22 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nFdX0O+XxSvQgWtr+3JkPk4SVWItLFmC5r/5vWhdvya2KHB0RiE/SFYYOVJRkrviCdjfuX8x5YmvY+eRN+B2yA==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 39ms (Views: 16.4ms | ActiveRecord: 1.2ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-11 19:21:16 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rcI2tT3Y9U4H6iIDJEWV0QSITOWymgYFHinocgQftzn+JbvvIkbU+GNThubZ87RlGOytpwOBRrnYhTCdsApIhQ==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Save Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:21
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 16.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.98 at 2019-07-11 19:24:28 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 22ms (Views: 19.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/articles/1/edit" for 128.201.18.98 at 2019-07-11 19:24:30 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:20
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/edit.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 18ms (Views: 15.5ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/articles/1" for 128.201.18.98 at 2019-07-11 19:24:34 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aIoS9MxaevPxycsgAt/ybMfvBb+JltQt7ZtPkamQztLHO2daOqO6LLS3WFhz8PYIr2M4hsiiQKzzxwlMjesw7A==", "article"=>{"title"=>"alfabeto", "text"=>"xxx"}, "commit"=>"Update Article", "id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:34
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:36
+  [1m[36mArticle Update (0.9ms)[0m  [1m[33mUPDATE "articles" SET "title" = ?, "updated_at" = ? WHERE "articles"."id" = ?[0m  [["title", "alfabeto"], ["updated_at", "2019-07-11 19:24:34.754097"], ["id", 1]]
+  ↳ app/controllers/articles_controller.rb:36
+  [1m[35m (12.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:36
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/1
+Completed 302 Found in 23ms (ActiveRecord: 13.7ms)
+
+
+Started GET "/articles/1" for 128.201.18.98 at 2019-07-11 19:24:34 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 13.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/1" for 128.201.18.98 at 2019-07-11 19:25:21 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 26.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.98 at 2019-07-11 19:25:23 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.96 at 2019-07-11 19:41:24 +0000
+Cannot render console from 128.201.18.96! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 23ms (Views: 20.3ms | ActiveRecord: 0.7ms)
+
+
+Started DELETE "/articles/2" for 128.201.18.96 at 2019-07-11 19:41:27 +0000
+Cannot render console from 128.201.18.96! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"CP4Ag2XpMyL2WfjjAjLcgrjcCVsdl1+r5bMz5s5Cl/dbGY3ZencSlJLgXAb/hP02pLjoGayMHxcjH+sJeldoSw==", "id"=>"2"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:45
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:46
+  [1m[36mArticle Destroy (0.9ms)[0m  [1m[31mDELETE FROM "articles" WHERE "articles"."id" = ?[0m  [["id", 2]]
+  ↳ app/controllers/articles_controller.rb:46
+  [1m[35m (12.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:46
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles
+Completed 302 Found in 21ms (ActiveRecord: 13.6ms)
+
+
+Started GET "/articles" for 128.201.18.96 at 2019-07-11 19:41:27 +0000
+Cannot render console from 128.201.18.96! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.1ms)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+Migrating to CreateComments (20190711194159)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20190711194159_create_comments.rb:3
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE TABLE "comments" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "commenter" varchar, "body" text, "article_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_3bf61a60d3"
+FOREIGN KEY ("article_id")
+  REFERENCES "articles" ("id")
+)[0m
+  ↳ db/migrate/20190711194159_create_comments.rb:3
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE  INDEX "index_comments_on_article_id" ON "comments" ("article_id")[0m
+  ↳ db/migrate/20190711194159_create_comments.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20190711194159"]]
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (14.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 19:47:22 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (6.7ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (34.5ms)
+Completed 200 OK in 116ms (Views: 96.9ms | ActiveRecord: 7.2ms)
+
+
+Started GET "/articles/1" for 128.201.18.95 at 2019-07-11 19:47:24 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (44.4ms)
+Completed 200 OK in 64ms (Views: 60.3ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/articles/1/comments" for 128.201.18.95 at 2019-07-11 19:47:33 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AghN8AuY/lyxFE2avbhYi/3Dr8QQtPrqY2Q3UP/RBErxLDFA07S6JDMTZX9YbRNrcYAs9RUAiLuEs9mNoqoJQQ==", "comment"=>{"commenter"=>"test", "body"=>"aaa"}, "commit"=>"Create Comment", "article_id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/comments_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[36mComment Create (1.0ms)[0m  [1m[32mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "test"], ["body", "aaa"], ["article_id", 1], ["created_at", "2019-07-11 19:47:33.827229"], ["updated_at", "2019-07-11 19:47:33.827229"]]
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[35m (15.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/1
+Completed 302 Found in 25ms (ActiveRecord: 16.7ms)
+
+
+Started GET "/articles/1" for 128.201.18.95 at 2019-07-11 19:47:33 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  Rendered articles/show.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 21ms (Views: 18.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/1" for 128.201.18.95 at 2019-07-11 19:47:56 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.2ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:12
+  Rendered articles/show.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 209.17.96.58 at 2019-07-11 19:51:41 +0000
+Cannot render console from 209.17.96.58! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as */*
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 22ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:54:11 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered articles/show.html.erb within layouts/application (12.8ms)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 1.3ms)
+
+
+  
+ActionView::Template::Error (Missing partial comments/_comment with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/environment/blog_rails/app/views"
+):
+    10: 
+    11: <h2>Comments</h2>
+    12: 
+    13: <% render @article.comments %>
+    14: 
+    15: <h2>Add a comment:</h2>
+    16: 
+  
+app/views/articles/show.html.erb:13:in `_app_views_articles_show_html_erb___4606143187910781931_70156747439380'
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:54:58 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (0.9ms)
+  Rendered comments/_form.html.erb (1.9ms)
+  Rendered articles/show.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 25ms (Views: 22.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 128.201.18.97 at 2019-07-11 19:55:10 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:55:12 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (0.6ms)
+  Rendered comments/_form.html.erb (1.8ms)
+  Rendered articles/show.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 41ms (Views: 39.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:55:42 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (0.6ms)
+  Rendered comments/_form.html.erb (1.8ms)
+  Rendered articles/show.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 26ms (Views: 22.8ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/articles/1/comments/1" for 128.201.18.97 at 2019-07-11 19:55:48 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"TKGcanABrZNokEPgJoAVBOH5u1jOfPAeMiDaEMk+d7YfRhEwb5+MJQwp5wXbNjSw/Z1aGn9nsKL0jAL/fSuICg==", "article_id"=>"1", "id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/comments_controller.rb:9
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT  "comments".* FROM "comments" WHERE "comments"."article_id" = ? AND "comments"."id" = ? LIMIT ?[0m  [["article_id", 1], ["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/comments_controller.rb:10
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/comments_controller.rb:11
+  [1m[36mComment Destroy (0.9ms)[0m  [1m[31mDELETE FROM "comments" WHERE "comments"."id" = ?[0m  [["id", 1]]
+  ↳ app/controllers/comments_controller.rb:11
+  [1m[35m (12.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/comments_controller.rb:11
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/1
+Completed 302 Found in 22ms (ActiveRecord: 13.6ms)
+
+
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:55:49 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of templates [0 times] (0.0ms)
+  Rendered comments/_form.html.erb (5.1ms)
+  Rendered articles/show.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 26ms (Views: 23.9ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/articles/1/comments" for 128.201.18.97 at 2019-07-11 19:55:52 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YQr4LD9OpzfJHmO98eA4pE1jkmO3IxY0r3EspS3ol1ky7XV2INCGga2nx1gMVhkQUQdzIQY4Vohp3fRKmf1o5Q==", "comment"=>{"commenter"=>"test", "body"=>"asdasdas"}, "commit"=>"Create Comment", "article_id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/comments_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[36mComment Create (1.0ms)[0m  [1m[32mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "test"], ["body", "asdasdas"], ["article_id", 1], ["created_at", "2019-07-11 19:55:52.508789"], ["updated_at", "2019-07-11 19:55:52.508789"]]
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[35m (12.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/1
+Completed 302 Found in 22ms (ActiveRecord: 13.6ms)
+
+
+Started GET "/articles/1" for 128.201.18.97 at 2019-07-11 19:55:52 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 1]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (0.6ms)
+  Rendered comments/_form.html.erb (1.8ms)
+  Rendered articles/show.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 128.201.18.97 at 2019-07-11 19:57:02 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 19ms (Views: 17.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 128.201.18.97 at 2019-07-11 19:57:12 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 128.201.18.97 at 2019-07-11 19:57:13 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.97 at 2019-07-11 19:57:17 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.9ms)
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: 
+    2: <%= form_with model: @article, local: true do |form| %>
+    3:  
+    4:   <% if @article.errors.any? %>
+    5:     <div id="error_explanation">
+    6:       <h2>
+    7:         <%= pluralize(@article.errors.count, "error") %> prohibited
+  
+app/views/articles/_form.html.erb:4:in `block in _app_views_articles__form_html_erb___4268169724718597605_70156694082300'
+app/views/articles/_form.html.erb:2:in `_app_views_articles__form_html_erb___4268169724718597605_70156694082300'
+app/views/articles/new.html.erb:4:in `_app_views_articles_new_html_erb___4255497072034624589_70156694034460'
+Started GET "/articles" for 128.201.18.97 at 2019-07-11 19:57:52 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.97 at 2019-07-11 19:57:54 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.9ms)
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: 
+    2: <%= form_with model: @article, local: true do |form| %>
+    3:  
+    4:   <% if @article.errors.any? %>
+    5:     <div id="error_explanation">
+    6:       <h2>
+    7:         <%= pluralize(@article.errors.count, "error") %> prohibited
+  
+app/views/articles/_form.html.erb:4:in `block in _app_views_articles__form_html_erb___4268169724718597605_70156749556020'
+app/views/articles/_form.html.erb:2:in `_app_views_articles__form_html_erb___4268169724718597605_70156749556020'
+app/views/articles/new.html.erb:4:in `_app_views_articles_new_html_erb___4255497072034624589_70156749517340'
+Started GET "/articles" for 128.201.18.97 at 2019-07-11 19:57:56 +0000
+Cannot render console from 128.201.18.97! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 23ms (Views: 21.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/1/edit" for 128.201.18.95 at 2019-07-11 20:00:48 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:20
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/edit.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 21ms (Views: 18.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 20:00:52 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.8ms)
+  Rendered articles/new.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: 
+    2: <%= form_with model: @article, local: true do |form| %>
+    3:  
+    4:   <% if @article.errors.any? %>
+    5:     <div id="error_explanation">
+    6:       <h2>
+    7:         <%= pluralize(@article.errors.count, "error") %> prohibited
+  
+app/views/articles/_form.html.erb:4:in `block in _app_views_articles__form_html_erb___4268169724718597605_70156747417740'
+app/views/articles/_form.html.erb:2:in `_app_views_articles__form_html_erb___4268169724718597605_70156747417740'
+app/views/articles/new.html.erb:4:in `_app_views_articles_new_html_erb___4255497072034624589_70156747404080'
+Started GET "/articles" for 128.201.18.95 at 2019-07-11 20:02:44 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/1/edit" for 128.201.18.95 at 2019-07-11 20:02:45 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:20
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.8ms)
+  Rendered articles/edit.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 30ms (Views: 27.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-11 20:02:48 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.9ms)
+  Rendered articles/new.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: 
+    2: <%= form_with model: @article, local: true do |form| %>
+    3:  
+    4:   <% if @article.errors.any? %>
+    5:     <div id="error_explanation">
+    6:       <h2>
+    7:         <%= pluralize(@article.errors.count, "error") %> prohibited
+  
+app/views/articles/_form.html.erb:4:in `block in _app_views_articles__form_html_erb___4268169724718597605_70156687326200'
+app/views/articles/_form.html.erb:2:in `_app_views_articles__form_html_erb___4268169724718597605_70156687326200'
+app/views/articles/new.html.erb:4:in `_app_views_articles_new_html_erb___4255497072034624589_70156687174340'
+Started GET "/" for 128.201.18.98 at 2019-07-12 14:30:11 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 269ms (Views: 262.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 128.201.18.98 at 2019-07-12 14:30:18 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 128.201.18.98 at 2019-07-12 14:30:20 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.6ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 29ms (Views: 21.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/articles/new" for 128.201.18.98 at 2019-07-12 14:30:22 +0000
+Cannot render console from 128.201.18.98! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (3.4ms)
+  Rendered articles/new.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `errors' for nil:NilClass):
+    1: 
+    2: <%= form_with model: @article, local: true do |form| %>
+    3:  
+    4:   <% if @article.errors.any? %>
+    5:     <div id="error_explanation">
+    6:       <h2>
+    7:         <%= pluralize(@article.errors.count, "error") %> prohibited
+  
+app/views/articles/_form.html.erb:4:in `block in _app_views_articles__form_html_erb__3562453588308684739_70115508986280'
+app/views/articles/_form.html.erb:2:in `_app_views_articles__form_html_erb__3562453588308684739_70115508986280'
+app/views/articles/new.html.erb:4:in `_app_views_articles_new_html_erb___2220086427379278681_70115508975280'
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-12 14:31:53 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (12.7ms)
+  Rendered articles/new.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 36ms (Views: 28.5ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-12 14:31:58 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8RBE1InSOhQ0sjygkEd7PUAYjIu7usthfje0/3IJAXKtYF/T6uTNtKrDWh5/fmpLTNu8QI7R4ZZh/2rjyTgsQQ==", "article"=>{"title"=>"sss", "text"=>"xxx"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.9ms)
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 21ms (Views: 16.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:32:01 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 128.201.18.95 at 2019-07-12 14:34:30 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 192ms (Views: 185.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:34:33 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 25ms (Views: 19.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-12 14:34:37 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (5.1ms)
+  Rendered articles/new.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-12 14:34:40 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TAB8LBqtxMinFmQAqvi0DCtZVFYBPM0z8nHVK/Ctc/p4lPF1SpVw4D0MKnQkva/mp+pPOz5bheyTEnCDU6FL5Q==", "article"=>{"title"=>"sss", "text"=>"xxxx"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.9ms)
+  Rendered articles/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 21ms (Views: 16.4ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-12 14:34:44 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ByqcyrysSyjedFGv0xtA9z0k2ySFDcEQPkqYbDOIVo5bWofN35q8iEAFNxE8IlGBMefr77Bm6+chgkZwiLl7vQ==", "article"=>{"title"=>"ssssss", "text"=>"xxxx"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[36mArticle Create (0.7ms)[0m  [1m[32mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "ssssss"], ["text", "xxxx"], ["created_at", "2019-07-12 14:34:44.456462"], ["updated_at", "2019-07-12 14:34:44.456462"]]
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/3
+Completed 302 Found in 21ms (ActiveRecord: 12.8ms)
+
+
+Started GET "/articles/3" for 128.201.18.95 at 2019-07-12 14:34:44 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.6ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 3]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of templates [0 times] (0.0ms)
+  Rendered comments/_form.html.erb (10.5ms)
+  Rendered articles/show.html.erb within layouts/application (31.9ms)
+Completed 200 OK in 73ms (Views: 67.4ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:34:48 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 17ms (Views: 15.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/new" for 128.201.18.95 at 2019-07-12 14:34:52 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#new as HTML
+  Rendering articles/new.html.erb within layouts/application
+  Rendered articles/_form.html.erb (1.7ms)
+  Rendered articles/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/articles" for 128.201.18.95 at 2019-07-12 14:35:00 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"mRrTbX0gMmke+V+PuTXMiYAjSwgl4265+/HGgIo0+8itjl40LRiGQYTjEfs3cNdjDJBQZRqEJmaakmMoKTjD1w==", "article"=>{"title"=>"ominicatatetori", "text"=>"asdagase sfa dasd asda sd"}, "commit"=>"Create Article"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[36mArticle Create (0.3ms)[0m  [1m[32mINSERT INTO "articles" ("title", "text", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "ominicatatetori"], ["text", "asdagase sfa dasd asda sd"], ["created_at", "2019-07-12 14:35:00.582290"], ["updated_at", "2019-07-12 14:35:00.582290"]]
+  ↳ app/controllers/articles_controller.rb:27
+  [1m[35m (11.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/articles_controller.rb:27
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/4
+Completed 302 Found in 18ms (ActiveRecord: 11.9ms)
+
+
+Started GET "/articles/4" for 128.201.18.95 at 2019-07-12 14:35:00 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 4]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of templates [0 times] (0.0ms)
+  Rendered comments/_form.html.erb (2.0ms)
+  Rendered articles/show.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 21ms (Views: 18.4ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/articles/4/comments" for 128.201.18.95 at 2019-07-12 14:35:06 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"41DocYLCHpaJuLQ7t9YfIgR3/C4GbcKxaqn0JbXZ+1m/IPN24fTpNhfJ0oVY7w5UCLTM5TMG6EZ1YSo5DujWag==", "comment"=>{"commenter"=>"xx", "body"=>"ssssss"}, "commit"=>"Create Comment", "article_id"=>"4"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/comments_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[36mComment Create (0.7ms)[0m  [1m[32mINSERT INTO "comments" ("commenter", "body", "article_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["commenter", "xx"], ["body", "ssssss"], ["article_id", 4], ["created_at", "2019-07-12 14:35:06.580445"], ["updated_at", "2019-07-12 14:35:06.580445"]]
+  ↳ app/controllers/comments_controller.rb:4
+  [1m[35m (11.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/comments_controller.rb:4
+Redirected to https://b63e5520452a4f8aa9f4fa90b88a1624.vfs.cloud9.us-east-2.amazonaws.com/articles/4
+Completed 302 Found in 21ms (ActiveRecord: 12.4ms)
+
+
+Started GET "/articles/4" for 128.201.18.95 at 2019-07-12 14:35:06 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 4]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (0.6ms)
+  Rendered comments/_form.html.erb (1.9ms)
+  Rendered articles/show.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 24ms (Views: 21.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:35:10 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:35:58 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 225ms (Views: 215.2ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/articles/4/edit" for 128.201.18.95 at 2019-07-12 14:36:04 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.2ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:21
+  Rendering articles/edit.html.erb within layouts/application
+  Rendered articles/_form.html.erb (5.2ms)
+  Rendered articles/edit.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 24ms (Views: 20.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/articles" for 128.201.18.95 at 2019-07-12 14:36:06 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#index as HTML
+  Rendering articles/index.html.erb within layouts/application
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+  ↳ app/views/articles/index.html.erb:12
+  Rendered articles/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles/4" for 128.201.18.95 at 2019-07-12 14:36:08 +0000
+Cannot render console from 128.201.18.95! Allowed networks: 127.0.0.0/127.0.0.255, 172.31.42.0/172.31.42.255, 172.17.0.0/172.17.0.255, 127.0.0.0/127.255.255.255, ::1
+Processing by ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.1ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/articles_controller.rb:13
+  Rendering articles/show.html.erb within layouts/application
+  [1m[36mComment Load (0.1ms)[0m  [1m[34mSELECT "comments".* FROM "comments" WHERE "comments"."article_id" = ?[0m  [["article_id", 4]]
+  ↳ app/views/articles/show.html.erb:13
+  Rendered collection of comments/_comment.html.erb [1 times] (1.1ms)
+  Rendered comments/_form.html.erb (2.0ms)
+  Rendered articles/show.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 34ms (Views: 30.8ms | ActiveRecord: 0.7ms)
+
+

@@ -1,14 +1,14 @@
 *.gem
 *.rbc
 /.config
-/coverage/
-/InstalledFiles
-/pkg/
-/spec/reports/
-/spec/examples.txt
-/test/tmp/
-/test/version_tmp/
-/tmp/
+*/coverage/
+*/InstalledFiles
+*/pkg/
+*/spec/reports/
+*/spec/examples.txt
+*/test/tmp/
+*/test/version_tmp/
+*/tmp/
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -16,10 +16,10 @@
 ## Specific to RubyMotion:
 .dat*
 .repl_history
-build/
+*build/
 *.bridgesupport
-build-iPhoneOS/
-build-iPhoneSimulator/
+*build-iPhoneOS/
+*build-iPhoneSimulator/
 
 ## Specific to RubyMotion (use of CocoaPods):
 #
